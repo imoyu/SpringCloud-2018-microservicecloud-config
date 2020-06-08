@@ -3,7 +3,7 @@ spring:
     active:
     - dev
 
-spring:
+ss:
   kk:
     - ko
     - pp
